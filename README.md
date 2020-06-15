@@ -1,4 +1,4 @@
-# Repositories Portfolio Web
+# Repositories Portfolio Web Page
 
 ReactJS project proposal as a challenge by the instructor during the Rocketseat GoStack course to memorize the content.
 
